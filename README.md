@@ -6,11 +6,7 @@
 
 <p>
   <img src="https://img.shields.io/badge/Java-black?style=for-the-badge">
-  <img src="https://img.shields.io/badge/Spring_Boot-00000F?style=for-the-badge&logo=springboot&logoColor=green">
-  <img src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white">
   <img src="https://img.shields.io/badge/Python-black?style=for-the-badge&logo=python&logoColor=yellow">
-</p>
-<p>
   <img src="https://img.shields.io/badge/Git-black?style=for-the-badge&logo=git&logoColor=E34F26">
   <img src="https://img.shields.io/badge/Linux-black?style=for-the-badge&logo=linux&logoColor=white">
 </p>
