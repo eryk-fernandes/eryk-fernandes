@@ -20,7 +20,7 @@
 
 ---
 
-[![iuricode](https://github-readme-stats.vercel.app/api/top-langs/?username=eryk-fernandes&hide=html&layout=compact&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
+[![](https://github-readme-stats.vercel.app/api/top-langs/?username=eryk-fernandes&hide=html&layout=compact&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
 
 ---
 
