@@ -13,9 +13,9 @@
 </div>
 <div>
   <img src="https://img.shields.io/badge/Git-black?style=for-the-badge&logo=git&logoColor=E34F26">
-  <img src="https://img.shields.io/badge/Linux-black?style=for-the-badge&logo=linux&logoColor=blue">
+  <img src="https://img.shields.io/badge/Linux-black?style=for-the-badge&logo=linux&logoColor=gray">
   <img src="https://img.shields.io/badge/HTML-black?style=for-the-badge&logo=html&logoColor=E34F26">
-  <img src="https://img.shields.io/badge/CSS-black?style=for-the-badge&logo=css&logoColor=purple">
+  <img src="https://img.shields.io/badge/CSS-black?style=for-the-badge&logo=css&logoColor=blue">
 </div>
 
 ---
